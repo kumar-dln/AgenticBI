@@ -1,0 +1,5 @@
+pandas
+matplotlib
+boto3
+strands-agents
+streamlit
